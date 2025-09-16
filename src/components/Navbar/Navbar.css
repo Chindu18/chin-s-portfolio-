@@ -1,0 +1,24 @@
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 130px;
+}
+.nav-items{
+    display: flex;
+    gap:40px;
+    font-size: 16px;
+    align-items: center;
+    list-style: none;
+}
+.nav-btn{
+    background: linear-gradient(90deg, #FF8A00 0%, #E52E71 100%);
+    padding: 15px 30px;
+    font-size: 17px;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: 0.3s;
+}
+.nav-btn:hover{
+  transform: scale(1.05);;    
+}
