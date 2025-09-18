@@ -1,0 +1,14 @@
+.tt{
+    background: linear-gradient(90deg, #FF8A00, #E52E71);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 600;
+}
+.hero-connect{
+    padding: 20px 40px;
+    border-radius: 50px;
+    background: linear-gradient(90deg, #FF8A00, #E52E71);
+    color: white;
+    cursor: pointer;
+}
